@@ -1,6 +1,6 @@
 # 纯稚学知识图谱
 
-以春知网「纯稚」CP 同人写作为样本的文献计量式知识图谱。**单文件离线运行**，下载 `index.html` 后双击即可打开，无外部依赖、无需服务器、无需联网。
+以「纯稚」CP 同人论文为样本的知识图谱。**单文件离线运行**，下载 `index.html` 后双击即可打开，无外部依赖、无需服务器、无需联网。
 
 ## 内容
 
@@ -20,15 +20,6 @@ https://chunzhi-citation-graph.app.workbuddy.host/?sharecode=MRAUDKMRUF
 > 链接须带 `?sharecode=`，否则返回 403；无需登录。
 
 本仓库（`Marjorie000/CHUNZHI_Graph`）启用 GitHub Pages 后，也可通过 `https://marjorie000.github.io/CHUNZHI_Graph/` 访问，具体地址以仓库 Settings → Pages 中显示的为准（GitHub Pages 在中国大陆的访问稳定性不如上面的国内托管）。
-
-## 文件说明
-
-| 文件 | 说明 |
-| --- | --- |
-| `index.html` | 成品页，数据已内联，可独立运行 |
-| `README.md` | 本说明 |
-
-抓取脚本、中间产物、三份原始 CSV，以及可编辑源 `template.html` 与构建脚本 `render.mjs` 均未放入本仓库（涉及原始抓取数据）。本仓库只保存已注入数据的成品页。
 
 ## 联系方式
 
